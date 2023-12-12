@@ -1,2 +1,0 @@
-# aleo-tictactoe
-aleo-tictactoe
